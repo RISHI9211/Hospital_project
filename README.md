@@ -73,7 +73,7 @@ To provide a **plug-and-play tool** that monitors hospital KPIs, improves planni
 ## 🚀 How to Use
 1. Clone or download this repository:  
    ```bash
-   git clone https://github.com/rishi9211/hospital-dashboard.git
+   git clone https://github.com/rishi9211/Hospital_prject.git
    ```
 2. Open `hospital1.pbit` or `hospital1.pbix` in **Power BI Desktop**.  
 3. Connect your own dataset (Excel, CSV, or SQL).  
