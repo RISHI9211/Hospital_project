@@ -57,7 +57,7 @@ To provide a **plug-and-play tool** that monitors hospital KPIs, improves planni
 ## 📷 Dashboard Screenshots
 
 ### Overview Page  
-![Dashboard Overview][(https://github.com/RISHI9211/Hospital_project/blob/main/Overview.png)]
+[(https://github.com/RISHI9211/Hospital_project/blob/main/Overview.png)]
 
 ![Departmental Analysis][(https://github.com/RISHI9211/Hospital_project/blob/main/Doctor.png)]
 
