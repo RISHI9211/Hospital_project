@@ -1,6 +1,9 @@
 # 🏥 Hospital Analytics Dashboard (Power BI)
 ![](https://github.com/RISHI9211/Hospital_project/blob/main/Home.png)
 
+# Power BI web link
+![](https://app.powerbi.com/groups/me/reports/4c21a818-7a82-44e8-b640-d38cc4606982/a99ae28c2903600e2362?ctid=a57f7d92-038e)
+
 An interactive **Power BI dashboard** designed to analyze hospital operations, patient admissions, and resource utilization.  
 This dashboard provides healthcare professionals and administrators with **data-driven insights** to improve efficiency and patient care.
 
