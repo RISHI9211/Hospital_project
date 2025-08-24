@@ -59,23 +59,21 @@ To provide a **plug-and-play tool** that monitors hospital KPIs, improves planni
 ### Overview Page  
 ![Dashboard Overview][(https://github.com/RISHI9211/Hospital_project/blob/main/Overview.png)]
 
-### Admissions & Department Analysis  
-![Admissions Trends](./screenshots/admissions.png)  
-![Departmental Analysis](./screenshots/department.png)
+![Departmental Analysis][(https://github.com/RISHI9211/Hospital_project/blob/main/Doctor.png)]
 
 ### Bed Utilization & KPIs  
-![Bed Occupancy](./screenshots/bed_occupancy.png)  
-![Key KPIs](./screenshots/kpis.png)
+![Bed Occupancy][(https://github.com/RISHI9211/Hospital_project/blob/main/Finance.png )]
+![Key KPIs][(https://github.com/RISHI9211/Hospital_project/blob/main/Hospital.png)]
 
 ### Patient Demographics  
-![Patient Demographics](./screenshots/demographics.png)
+![Patient Demographics][(https://github.com/RISHI9211/Hospital_project/blob/main/Patient.png)]
 
 ---
 
 ## 🚀 How to Use
 1. Clone or download this repository:  
    ```bash
-   git clone https://github.com/your-username/hospital-dashboard.git
+   git clone https://github.com/rishi9211/hospital-dashboard.git
    ```
 2. Open `hospital1.pbit` or `hospital1.pbix` in **Power BI Desktop**.  
 3. Connect your own dataset (Excel, CSV, or SQL).  
