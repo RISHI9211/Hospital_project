@@ -57,7 +57,7 @@ To provide a **plug-and-play tool** that monitors hospital KPIs, improves planni
 ## 📷 Dashboard Screenshots
 
 ### Overview Page  
-![Dashboard Overview](./screenshots/overview.png)
+![Dashboard Overview][(https://github.com/RISHI9211/Hospital_project/blob/main/Overview.png)]
 
 ### Admissions & Department Analysis  
 ![Admissions Trends](./screenshots/admissions.png)  
